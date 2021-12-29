@@ -1,2 +1,2 @@
-# new_project1
+# new_project
 practice
